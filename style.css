@@ -1,0 +1,47 @@
+.custom-navbar {
+    background-color: #0f172a;
+    
+}
+
+.custom-navbar .navbar-brand {
+    color: #ffffff;
+    font-size: 2rem;
+   
+}
+
+.custom-navbar .navbar-brand span {
+    color: #3b82f6;
+}
+
+.custom-navbar .nav-link {
+    color: #ffffff;
+}
+
+.custom-navbar .nav-link:hover {
+    color: #3b82f6;
+}
+.hero{
+    background-color:  #1c0757;;
+}
+.hero h1{
+    color: #ffffff;
+}
+
+.hero h1 span {
+    color: #3b82f6;
+    font-weight: bolder;
+
+}
+
+.service-icon {
+    font-size: 35px;
+    color: #3b82f6;
+}
+
+.card {
+    transition: 0.3s;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+}
